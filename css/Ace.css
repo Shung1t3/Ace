@@ -11,6 +11,15 @@ background: #d8d8d8;
 font-weight: bold;
 float: left;
 height: 420px;
+padding-right: 24px;
+margin-right: 10px;
+}
+
+section {
+background-image: url(/media/jbqzjpq7sju71.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+
 }
 
 h1 {
