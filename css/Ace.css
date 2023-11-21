@@ -30,6 +30,8 @@ section {
 background-image: url("/media/jbqzjpq7sju71.jpeg");
 background-repeat: no-repeat;
 background-size: cover;
+resize: both;
+overflow: auto;
 
 }
 
